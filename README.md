@@ -1,5 +1,4 @@
-# cracking-the-coding-interview-python
-Solutions to the Cracking the coding Interview problems in Python
+# Solutions to the Cracking the coding Interview problems in Python
 
 The book: https://www.crackingthecodinginterview.com/
 
