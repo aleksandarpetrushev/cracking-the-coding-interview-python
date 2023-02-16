@@ -2,4 +2,6 @@
 
 The book: https://www.crackingthecodinginterview.com/
 
-Before every solution there is a problem number commented out. Example 1.7 is the problem number 7 in the first chapter of the book.
+Before every solution there is a problem number and the name of the problem as stated in the book (commented out). 
+
+For each chapter the solutions are placed in separate files named "Chapter N: chapter_name". Also all problem solutions are included in the "All Problems" file.
